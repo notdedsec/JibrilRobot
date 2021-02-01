@@ -1,0 +1,18 @@
+{
+    "chatList": [
+    ],
+    "sudoList": [
+    ],
+    "git": {
+        "user": "",
+        "pass": "",
+        "json": ""
+    },
+    "gdrive" : {
+        "id": "",
+        "client_id": "",
+        "client_secret": "",
+        "refresh_token": ""
+    },
+    "token": ""
+}
